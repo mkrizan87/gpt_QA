@@ -26,6 +26,9 @@ This project documents a **manual QA testing analysis** of OpenAI’s ChatGPT, f
 
 ---
 
+## Conclusions
+- ChatGPT has many significant flaws in semantic understanding, adherance to instruction, programmed overconfidence in its own abilities and accuracy without sufficient disclaimers which could lead to negative UX. The errors are consistent and reproduceable which should indicate that they are also fixable. It is the author's opinion that issues of confidence in the output of AI should be prioritized over a proverbial arms race.
+
 ### Future Work  
 - Expanding test coverage to **AI-generated code accuracy.**  
 - Automating some validation using **AI-driven testing frameworks.**  
